@@ -1,0 +1,6 @@
+{
+  "name": "Aether AI & Private Messenger",
+  "description": "AI Chat Assistant with a covert private messenger gambit, disguised news notifications, friend invite links, and rich media sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

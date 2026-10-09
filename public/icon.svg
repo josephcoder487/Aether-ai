@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="url(#grad)" />
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="50%" stop-color="#6366F1" />
+      <stop offset="100%" stop-color="#7C3AED" />
+    </linearGradient>
+  </defs>
+  <!-- Sleek dual chat bubble & star symbol -->
+  <path d="M150 180 C150 150, 180 130, 260 130 C340 130, 370 150, 370 180 C370 210, 340 230, 260 230 C230 230, 200 225, 175 245 L175 215 C158 205, 150 195, 150 180 Z" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.9" />
+  <path d="M190 270 C190 250, 220 235, 290 235 C360 235, 390 250, 390 275 C390 300, 360 315, 290 315 C260 315, 240 310, 215 330 L215 305 C200 295, 190 285, 190 270 Z" stroke="#A5B4FC" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <path d="M370 140 L380 160 L400 170 L380 180 L370 200 L360 180 L340 170 L360 160 Z" fill="#FDE047" />
+</svg>
